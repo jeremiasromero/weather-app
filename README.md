@@ -6,7 +6,7 @@ A full-stack weather application that lets users search for real-time weather da
 
 **Built by:** Jeremias Romero
 
-**About PM Accelerator:** The [Product Manager Accelerator](https://www.linkedin.com/company/product-manager-accelerator/) program is designed to support PM professionals through every stage of their career. From students looking for entry-level jobs to Directors looking to take on a VP role, our program has helped hundreds of students fulfill their career aspirations. Our game-changing product portfolio, community, and integrated AI platform are accelerating PM careers worldwide.
+**About PM Accelerator:** The Product Manager Accelerator program is designed to support PM professionals through every stage of their career. From students looking for entry-level jobs to Directors looking to take on a VP role, our program has helped hundreds of students fulfill their career aspirations. Our game-changing product portfolio, community, and integrated AI platform are accelerating PM careers worldwide.
 
 ---
 
